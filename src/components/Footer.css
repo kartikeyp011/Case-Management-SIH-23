@@ -110,7 +110,7 @@
 
 .social-media-wrap {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 90%;
     max-width: 1000px;
@@ -133,7 +133,8 @@
     font-size: 2rem;
     display: flex;
     align-items: center;
-    margin-bottom: 16px;
+    margin: 30px np16px;
+
 }
 
 .website-rights {

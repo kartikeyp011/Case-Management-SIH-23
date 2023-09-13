@@ -25,7 +25,7 @@ function Support() {
                     </li>
                     <li className="sup-card">
                         <img src="images/icons8-law-64.png" alt="" />
-                        Judge Councelling
+                        Judge Counselling
                         <span>If you want to discuss your case
                             with a professional judge </span>
                     </li>

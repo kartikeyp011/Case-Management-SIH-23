@@ -7,23 +7,7 @@ import sidebar_menu_citizen from './sidebar_menu_citizen';
 
 function Citizen_section() {
     return (
-        <>
-            {/* <sidebar_menu_citizen /> */}
-            <ul>
-                <li>
-                    <Link>File A New Case</Link>
-                </li>
-                <li>
-                    <Link></Link>
-                </li>
-                <li>
-                    <Link>Add File</Link>
-                </li>
-                <li>
-                    <Link>Add File</Link>
-                </li>
-            </ul>
-        </>
+        <a href="File a New Case">File a new case</a>
     )
 }
 
