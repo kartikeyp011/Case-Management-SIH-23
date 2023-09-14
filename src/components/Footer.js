@@ -53,12 +53,12 @@ function Footer() {
             </div>
             <section class='social-media'>
                 <div class='social-media-wrap'>
-                    <div class='footer-logo'>
+                    {/* <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
                             Case Management
                         </Link>
-                    </div>
-                    <small class='website-rights'>Case Management © 2023</small>
+                    </div> */}
+                    <small class='website-rights'>© 2023 Government Legal Database. All rights reserved.</small>
                     {/* <div class='social-icons'>
                         <Link
                             class='social-icon-link facebook'
