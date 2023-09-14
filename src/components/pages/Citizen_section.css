@@ -34,6 +34,7 @@
     color: #26212d;
     font-weight: 600;
     margin: 20px;
+    margin-bottom: 5px;
 }
 .citizen-btn-nav{
     margin: 50px;
@@ -48,4 +49,9 @@
     font-weight: 500;
     background-color: #dee5fb;
     cursor: pointer;
+    transition: 0.15s;
+}
+.citizen-nav-button:hover{
+    background-color: #def4fb;
+    transform: scale(1.012);
 }

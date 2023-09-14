@@ -16,13 +16,13 @@ function Staff_section() {
                 <div className="staff-btn-nav">
                  <div>
                  <button className="staff-nav-button">
-                    File a New Case
+                    Add New Record
                 </button>
-                <button className="staff-nav-button">Upcoming Hearing</button>
+                <button className="staff-nav-button">Schedule Hearing</button>
                 </div>   
                 <div>
-                <button className="staff-nav-button">Past hearing</button>
-                <button className="staff-nav-button">Upload Evidence</button>
+                <button className="staff-nav-button">Upcoming hearing</button>
+                <button className="staff-nav-button">Evidence</button>
                 </div>
                 
                 </div>

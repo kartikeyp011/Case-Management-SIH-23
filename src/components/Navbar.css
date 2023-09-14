@@ -30,7 +30,9 @@
     margin-left: 20px;
 
 }
-
+.Navbar-logo:hover{
+    color: #b8b6b6;
+}
 .nav-items {
     display: flex;
     align-items: center;
@@ -54,12 +56,18 @@
     cursor: pointer;
     /* text-decoration: none; */
 }
-
+/* .nav-menu:hover{
+    background:#444343 ;
+    color:#fff ;
+}  */
 .nav-links {
     text-decoration: none;
     color: rgb(190, 188, 188);
 }
 
+.nav-links:hover{
+    color: #ffffff;
+} 
 .sign-up-link {
     text-decoration: none;
     color: inherit;
@@ -79,7 +87,7 @@
     letter-spacing: 0.045em;
     margin: 0 10px;
     cursor: pointer;
-    transition: 0.75s;
+    transition: 0.45s;
 }
 
 .nav-button:hover {

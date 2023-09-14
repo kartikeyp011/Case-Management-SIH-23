@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.government-bg {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.font-arial {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #002855;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #fff;
+}
+
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    text-align: center;
+    margin-top: 20px;
+    color: #002855;
+}
+
+.important-links {
+    text-align: left;
+    padding: 10px;
+}
+
+.important-links h3 {
+    font-size: 24px;
+    color: #002855;
+}
+
+.important-links ul {
+    list-style-type: none;
+}
+
+.important-links li {
+    margin-bottom: 10px;
+}
+
+.important-links a {
+    text-decoration: none;
+    color: #002855;
+    font-weight: bold;
+}
+
+.placeholder-image {
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid #002855;
+}
+
+.footer {
+    background-color: #002855;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
